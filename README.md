@@ -1,4 +1,5 @@
-### Hello world!
-I'm Fox198nt. The languages i know are HTML, CSS, Javascript and Python.
+### hi mom
+im just a programmer, web designer, graphic designer and artist. 
+languages: HTML, CSS, Python
 
-__[Click Here](//fox198nt.github.io/)__ to visit my website!
+__working on a new site__, will come out soon. (probably a month)
