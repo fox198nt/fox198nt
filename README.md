@@ -1,5 +1,5 @@
 ### hello github
-im just a programmer, web designer, graphic designer and artist. 
-languages: HTML, CSS, Python
+programmer, web designer and graphic designer 
+languages: HTML, CSS, JS, Python, GDScript
 
 my website: https://fox198nt.github.io/
